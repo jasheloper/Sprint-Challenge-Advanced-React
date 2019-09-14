@@ -26,6 +26,11 @@ class App extends React.Component {
    <div className="container">
       <h1>Women's World Cup players</h1>
       <h3>Ranked by search interest from Google Trends, June-July 2019, worldwide</h3>
+      <p>Implemented/Designed by Jashele Tillman </p>
+
+      <br />
+      <br />
+ 
  
 
 

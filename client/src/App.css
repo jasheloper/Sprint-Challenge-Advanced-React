@@ -48,10 +48,9 @@
 }
 
 .card {
-  background: black;
-  color: tan;
+  background: #594F4F;
+  border: 5px solid #F7DB4F;
   width: 20%;
-  margin: 6px;
-  border: 1px solid tan;
+  margin: 20px;
   padding: 1em;
 }
