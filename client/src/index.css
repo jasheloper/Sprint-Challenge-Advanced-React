@@ -1,11 +1,15 @@
 body {
+  text-align: center;
   background-image: linear-gradient(to bottom, #CC527A, #C4C4C4);
-  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.dark-mode {
+  background-image: linear-gradient(to bottom, #594F4F, #C4C4C4);
 }
 
 code {
