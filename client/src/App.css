@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  text-align: center;
+  color: white;
+  margin: 0 auto; 
+}
+
+.list {
+  margin: 0 auto; 
+  width: 90%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  background: black;
+  color: tan;
+  width: 20%;
+  margin: 6px;
+  border: 1px solid tan;
+  padding: 1em;
+}

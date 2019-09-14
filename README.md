@@ -1,3 +1,30 @@
+# Jashele Tillman - Women's World Cup 
+Women's World Cup players ranked by search interest from Google Trends, June-July 2019, worldwide - https://googletrends.github.io/data/.
+
+
+<br />
+
+## Contact Me:
+
+
+<a href="https://www.linkedin.com/in/jashelet/" target=_blank>
+<img src="images/linkedin.png" alt="Contact Jashele on LinkedIn"> </a><a href="https://twitter.com/jasheloper" target=_blank>
+<img src="images/twitter.png" alt="Contact Jashele on Twitter"></a><a href="mailto:jtmediaaccts@gmail.com">
+<img src="images/email.png" alt="Contact Jashele via Email"></a>
+
+<br />
+
+**My Portfolio:** <a href="http://jasheletillman.me/" target=_blank>JasheleTillman.Me</a>
+<br />
+**My Blog:** <a href="https://jashele.blog/" target=_blank>Jashele.Blog</a>
+
+<br />
+<br />
+<br />
+
+
+
+
 # Sprint Challenge: Advanced React - Women's World Cup
 
 This challenge allows you to practice the concepts and techniques learned over the past Sprint and apply them in a concrete project. This Sprint explored class components, custom hooks, and testing. In your challenge for this Sprint, you will demonstrate proficiency by creating an application that consumes data from an API using a custom hook, displays that data on the DOM, and tests your React components.
